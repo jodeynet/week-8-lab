@@ -1,3 +1,11 @@
 var strength = '50,000';
 console.log(strength);
 console.log('How much stuff can a cariable hold? ', strength);
+
+var strength = '50,000';
+var age = 19;
+var hasPet = false;
+console.log(age);
+console.log(strength);
+console.log(hasPet);
+console.log('How much stuff can a cariable hold? ', strength);
