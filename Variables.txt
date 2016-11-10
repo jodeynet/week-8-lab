@@ -1,0 +1,3 @@
+var strength = '50,000';
+console.log(strength);
+console.log('How much stuff can a cariable hold? ', strength);
